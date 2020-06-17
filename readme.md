@@ -1,5 +1,3 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
-
 # Simple Editor
 
 A simple text editor without nystagmus.
