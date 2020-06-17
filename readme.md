@@ -1,12 +1,13 @@
 ![cover](https://cotenfrontend.pl/img/cover.png)
 
-# WTF Webpack Starter Kit 
+# Simple Editor
 
-Simple toolkit for your static websites development.
+A simple text editor without nystagmus.
 
-## How to use it?
+## How to fire?
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+- refresh resistant
+- saves input from text area in localstorage.
 
 ## Available scripts
 
