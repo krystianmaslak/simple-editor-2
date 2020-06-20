@@ -7,6 +7,8 @@ A simple text editor without nystagmus.
 - refresh resistant
 - saves input from text area in localstorage.
 
+Link: https://krystianmaslak.github.io/simple-editor-2/
+
 ## Available scripts
 
 `npm run start` - runs development mode
